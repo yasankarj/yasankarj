@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning AWS tech stack
 - 💞️ I’m looking to collaborate on Full Stack Development Opportunities
 - 📫 Email me on yasankarj@gmail.com
+- 🔗 Portfolio: [yasankarj.github.io](https://yasankarj.github.io/)
 
 <!---
 yasankarj/yasankarj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
